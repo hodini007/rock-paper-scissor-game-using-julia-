@@ -23,18 +23,15 @@ Step into the arena of **Rock-Paper-Scissors**, where you face off against the c
 
    ```bash
    git clone https://github.com/yourusername/rock-paper-scissors.git
-Navigate into the project directory:
 
-bash
-Copy code
-cd rock-paper-scissors
-Run the game:
+
+
+###Run the game:
 
 Open Julia and execute:
 
-julia
-Copy code
 include("your_script_name.jl")
+
 🕹️ How to Play
 Choose your move:
 
